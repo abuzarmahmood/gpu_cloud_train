@@ -1,0 +1,9 @@
+** Check GPU is cuda supported
+
+1) Install appropriate cuda version
+    -https://docs.nvidia.com/cuda/cuda-installation-guide-linux/index.html
+    -https://developer.nvidia.com/cuda-downloads?target_os=Linux&target_arch=x86_64&Distribution=Ubuntu&target_version=18.04&target_type=deb_local
+2) Install cuda-docker interface
+    -https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/install-guide.html#docker
+3) Install and test tensorflow with GPU support 
+    -https://www.tensorflow.org/install/docker
